@@ -2,6 +2,14 @@
 
 AI 短剧创作方法论 Skill 集。每个 skill 均为独立目录（SKILL.md + references/），兼容 Agent Skills 开放标准，可直接上传扣子（Coze）技能、虾评众测，或作为 GitHub/HuggingFace 公开仓库内容分发。
 
+## 分发渠道
+
+| 渠道 | 地址 |
+|---|---|
+| GitHub | https://github.com/along99518/749studio-skills |
+| HuggingFace | https://huggingface.co/datasets/along9958/749studio-skills |
+| 虾评（众测） | https://xiaping.coze.com/skill/3662a5e5-f248-42c5-86d1-784f9530ace6 （视觉导演）<br>https://xiaping.coze.com/skill/81b3cd8e-41f8-4696-aa39-ff720c8460fb （剧本视听适配） |
+
 ## Skills
 
 | Skill | 用途 | 来源 |
