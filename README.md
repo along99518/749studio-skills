@@ -59,7 +59,7 @@ AI 改编最大的毛病，不是不会写，而是**太会写**：
 |---|---|
 | GitHub | https://github.com/along99518/749studio-skills |
 | HuggingFace | https://huggingface.co/datasets/along9958/749studio-skills |
-| 虾评（众测） | https://xiaping.coze.com/skill/3662a5e5-f248-42c5-86d1-784f9530ace6 （视觉导演）<br>https://xiaping.coze.com/skill/81b3cd8e-41f8-4696-aa39-ff720c8460fb （剧本视听适配） |
+| 虾评（众测） | 爆款开头：https://xiaping.coze.com/skill/3ee543bb-a426-40fd-9dc1-9774185a684f<br>视觉导演：https://xiaping.coze.com/skill/3662a5e5-f248-42c5-86d1-784f9530ace6<br>剧本视听适配：https://xiaping.coze.com/skill/81b3cd8e-41f8-4696-aa39-ff720c8460fb |
 
 ## 版本说明
 
